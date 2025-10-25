@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>🧑 Yatharth Shahi </h1>
+<h1> Hi, I'm Yatharth </h1>
 
 🧑🏽‍🎓 Sophomore at Netaji Subhas University of Technology, pursuing Electronics and Communication Engineering. <br/>
 🌱 A passionate tech enthusiast exploring the intersection of software, hardware, and Artificial Intelligence.<br/>
@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"/>
-<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 <img align="left" alt="Podman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" />
           
@@ -45,9 +44,8 @@ Here are some ideas to get you started:
 <br/>
 
 ## 📊 GitHub Stats
-<p><img align="right" style="padding-top:10px;" src="https://github-readme-stats.vercel.app/api?username=Ghosty-Gigabytes&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Ghosty-Gigabytes" />
-<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Ghosty-Gigabytes&theme=onedark&hide_border=true" alt="Ghosty-Gigabytes" /></p>
-<br/>
+<p align="center"><img style="padding-top:10px;" src="https://github-readme-stats.vercel.app/api?username=Ghosty-Gigabytes&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Ghosty-Gigabytes" /></p>
+<p align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=Ghosty-Gigabytes&theme=onedark&hide_border=true" alt="Ghosty-Gigabytes" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosty-Gigabytes&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Ghosty-Gigabytes" /></p>
 
 
