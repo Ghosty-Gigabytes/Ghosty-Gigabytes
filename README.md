@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 <br/>
 
 ## 📈 My GitHub Journey
-<p align="center"><img style="padding-top:10px;" src="https://github-readme-stats.vercel.app/api?username=Ghosty-Gigabytes&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" alt="Ghosty-Gigabytes" /></p>
-<p align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=Ghosty-Gigabytes&theme=onedark&hide_border=true" alt="Ghosty-Gigabytes" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghosty-Gigabytes&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Ghosty-Gigabytes" /></p>
+<p align="center"><img style="padding-top:10px;" src="https://github-readme-stats.shion.dev/api?username=Ghosty-Gigabytes&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" alt="Ghosty-Gigabytes" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Ghosty-Gigabytes&theme=gruvbox&hide_border=true" alt="Ghosty-Gigabytes" /></p>
+<p align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ghosty-Gigabytes&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Ghosty-Gigabytes" /></p>
 
 
 
